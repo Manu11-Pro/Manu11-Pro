@@ -1,7 +1,7 @@
 # Manu11-Pro
 
 ## About Me  
-- 🎓 Student Developer passionate about **Programming, Web & App Development, Game Development, Video & Audio Editing, Animation, and Microcontrollers**  
+- 🎓 Student Developer passionate about **Programming, Web & App Development, Game Development, Video & Audio Editing, 2D/3D Animation, 3D Modeling, and Microcontrollers**  
 
 ---
 
@@ -17,9 +17,14 @@
 
 ---
 
-### 🎨 Animation  
+### 🎨 2D Animation  
 - TupiTube  
 - Synfig Studio  
+
+---
+
+### 🌀 3D Modeling & Animation  
+- Blender  
 - *etc…*  
 
 ---
