@@ -9,7 +9,10 @@
   - CSS  
   - JavaScript  
   - GDScript  
-  - *And more coming…*  
+  - *And more coming…*
+ 
+  - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu11-Pro&layout=compact&theme=tokyonight)
+
 
 - 📚 **JavaScript Frameworks & Libraries**:  
   - React  
