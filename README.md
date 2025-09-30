@@ -1,16 +1,22 @@
-## Hi there 👋
+# Manu11-Pro
 
-<!--
-**Manu11-Pro/Manu11-Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+- 🎓 Student Developer passionate about **Programming, Web & App Development, Game Development, and Microcontrollers**  
 
-Here are some ideas to get you started:
+- 💻 **Programming Languages**:  
+  - Python  
+  - HTML  
+  - CSS  
+  - JavaScript  
+  - GDScript  
+  - *And more coming…*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 **JavaScript Frameworks & Libraries**:  
+  - React  
+  - React Native  
+  - Phaser  
+  - *And more…*  
+
+- 🌐 More about me and projects on my future website!  
+
+- 🚀 Always Learning and Creating!  
