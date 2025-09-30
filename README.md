@@ -13,15 +13,15 @@
  
   - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu11-Pro&layout=compact&theme=tokyonight)
 
--**Animation**
+-**Animation**:
   -TupiTube
   -Synfig Animation
   -*etc..*
 
--**Video Editing**
+-**Video Editing**:
   -Shotcut
 
--**Audio Editing**
+-**Audio Editing**:
   -Audacity
   -LMMS
   -Reaper
