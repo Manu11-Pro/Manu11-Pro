@@ -1,7 +1,7 @@
 # Manu11-Pro
 
 ## About Me  
-- 🎓 Student Developer passionate about **Programming, Web & App Development, Game Development, and Microcontrollers**  
+- 🎓 Student Developer passionate about **Programming, Web & App Development, Game Development, Video,Audio Editing, Animation and Microcontrollers**  
 
 - 💻 **Programming Languages**:  
   - Python  
@@ -13,12 +13,19 @@
  
   - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu11-Pro&layout=compact&theme=tokyonight)
 
+-**Animation**
+  -TupiTube
+  -Synfig Animation
+  -*etc..*
 
-- 📚 **JavaScript Frameworks & Libraries**:  
-  - React  
-  - React Native  
-  - Phaser  
-  - *And more…*  
+-**Video Editing**
+  -Shotcut
+
+-**Audio Editing**
+  -Audacity
+  -LMMS
+  -Reaper
+  -*etc..*
 
 - 🌐 More about me and projects on my future website!  
 
