@@ -20,12 +20,12 @@
 ### 🎨 2D Animation  
 - TupiTube  
 - Synfig Studio  
+- *etc…*  
 
 ---
 
 ### 🌀 3D Modeling & Animation  
-- Blender  
-- *etc…*  
+- Blender
 
 ---
 
