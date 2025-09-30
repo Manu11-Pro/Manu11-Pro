@@ -19,4 +19,7 @@
 
 - 🌐 More about me and projects on my future website!  
 
-- 🚀 Always Learning and Creating!  
+- 🚀 Always Learning and Creating!
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manu11-Pro&show_icons=true&theme=tokyonight)
+
