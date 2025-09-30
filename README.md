@@ -7,8 +7,9 @@
   - Python  
   - HTML  
   - CSS  
-  - JavaScript  
-  - GDScript  
+  - JavaScript
+  - C++ 
+  - GDScript
   - *And more coming…*
  
   - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu11-Pro&layout=compact&theme=tokyonight)
