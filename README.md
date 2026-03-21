@@ -6,7 +6,8 @@
 ---
 
 ### 💻 Programming Languages  
-- Python  
+- Python
+- Java
 - HTML  
 - CSS  
 - JavaScript  
