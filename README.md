@@ -26,8 +26,6 @@
 
 ---
 
----
-
 ### 🎨 2D Animation  
 - TupiTube  
 - Synfig Studio  
