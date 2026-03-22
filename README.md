@@ -1,7 +1,7 @@
 # Manu11-Pro
 
 ## About Me  
-- 🎓 Student Developer passionate about **Programming, Web & App Development, Game Development, Video & Audio Editing, 2D/3D Animation, 3D Modeling, and Microcontrollers**  
+- 🏫Student Developer passionate about **Programming, Web & App Development, Game Development, Video & Audio Editing, 2D/3D Animation, 3D Modeling, and Microcontrollers**  
 
 ---
 
