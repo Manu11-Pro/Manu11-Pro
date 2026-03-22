@@ -18,10 +18,19 @@
 
 ---
 
+### 🎨 Photo Editing/Art
+- GIMP
+- Canva
+- Affinity 
+- LibreSprite
+
+---
+
+---
+
 ### 🎨 2D Animation  
 - TupiTube  
 - Synfig Studio  
-- *etc…*  
 
 ---
 
@@ -39,7 +48,6 @@
 - Audacity  
 - LMMS  
 - Reaper  
-- *etc…*  
 
 ---
 
