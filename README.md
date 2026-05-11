@@ -1,11 +1,13 @@
 # Manu11-Pro
 
-## About Me  
+## About Me
+
 - 🏫Student Developer passionate about **Programming, Web & App Development, Game Development, Video & Audio Editing, 2D/3D Animation, 3D Modeling, and Microcontrollers**  
 
 ---
 
 ### 💻 Programming Languages  
+
 - Python
 - Java
 - HTML  
@@ -19,30 +21,35 @@
 ---
 
 ### 🎨 Photo Editing/Art
+
 - GIMP
 - Canva
-- Affinity 
+- Affinity
 - LibreSprite
 
 ---
 
 ### 🎨 2D Animation  
+
 - TupiTube  
 - Synfig Studio  
 
 ---
 
-### 🌀 3D Modeling & Animation  
+### 🌀 3D Modeling & Animation
+
 - Blender
 
 ---
 
 ### 🎬 Video Editing  
+
 - Shotcut  
 
 ---
 
 ### 🎵 Audio Editing / Music Production  
+
 - Audacity  
 - LMMS  
 - Reaper  
