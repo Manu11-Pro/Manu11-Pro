@@ -33,6 +33,7 @@
 
 - TupiTube  
 - Synfig Studio  
+- Blender
 
 ---
 
