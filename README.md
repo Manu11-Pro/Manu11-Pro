@@ -31,9 +31,10 @@
 
 ### 🎨 2D Animation  
 
-- TupiTube  
 - Synfig Studio  
 - Blender
+- OpenToonz
+- TupiTube  
 
 ---
 
@@ -45,7 +46,8 @@
 
 ### 🎬 Video Editing  
 
-- Shotcut  
+- Shotcut
+- Kdenlive
 
 ---
 
