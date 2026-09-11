@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🏫Student Developer passionate about **Programming, Web & App Development, Game Development, Video & Audio Editing, 2D/3D Animation, 3D Modeling, and Microcontrollers**  
+- 🏫Student Developer passionate about **Programming, Web, App, Game Development, Linux, Video & Audio Editing, 2D/3D Animation & Modeling, Microcontrollers, Robotics, IoT, and Electronics**  
 
 ---
 
@@ -10,10 +10,10 @@
 
 - Python
 - Java
+- C++
 - HTML  
 - CSS  
-- JavaScript  
-- GDScript  
+- JavaScript
 - *And more coming…*  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu11-Pro&layout=compact&theme=tokyonight)
